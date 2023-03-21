@@ -1,0 +1,6 @@
+framework module NativeModuleToBridge {
+  umbrella header "NativeModuleToBridge.h"
+
+  export *
+  module * { export * }
+}
